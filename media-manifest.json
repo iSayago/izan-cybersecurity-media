@@ -1,0 +1,92 @@
+[
+  {
+    "id": "lab1-p01-sql-injection",
+    "lab": "Lab 1",
+    "module": "02",
+    "practice": "01",
+    "title": "SQL Injection en LuxuryTreats",
+    "edited": "media-work\\videos\\lab1-p01-sql-injection-edited.mp4",
+    "summary": "media-work\\videos\\lab1-p01-sql-injection-summary.mp4"
+  },
+  {
+    "id": "lab1-p02-xss",
+    "lab": "Lab 1",
+    "module": "02",
+    "practice": "02",
+    "title": "XSS en el formulario de contacto",
+    "edited": "media-work\\videos\\lab1-p02-xss-edited.mp4",
+    "summary": "media-work\\videos\\lab1-p02-xss-summary.mp4"
+  },
+  {
+    "id": "lab1-p03-nmap",
+    "lab": "Lab 1",
+    "module": "02",
+    "practice": "03",
+    "title": "Descubrimiento de servicios con Nmap",
+    "edited": "media-work\\videos\\lab1-p03-nmap-edited.mp4",
+    "summary": "media-work\\videos\\lab1-p03-nmap-summary.mp4"
+  },
+  {
+    "id": "lab1-p04-dos",
+    "lab": "Lab 1",
+    "module": "02",
+    "practice": "04",
+    "title": "DoS UDP con LOIC",
+    "edited": "media-work\\videos\\lab1-p04-dos-edited.mp4",
+    "summary": "media-work\\videos\\lab1-p04-dos-summary.mp4"
+  },
+  {
+    "id": "lab1-p05-hydra",
+    "lab": "Lab 1",
+    "module": "02",
+    "practice": "05",
+    "title": "Fuerza bruta FTP con Hydra",
+    "edited": "media-work\\videos\\lab1-p05-hydra-edited.mp4",
+    "summary": "media-work\\videos\\lab1-p05-hydra-summary.mp4"
+  },
+  {
+    "id": "lab1-p06-wireshark",
+    "lab": "Lab 1",
+    "module": "02",
+    "practice": "06",
+    "title": "Análisis de IoCs con Wireshark",
+    "edited": "media-work\\videos\\lab1-p06-wireshark-edited.mp4",
+    "summary": "media-work\\videos\\lab1-p06-wireshark-summary.mp4"
+  },
+  {
+    "id": "lab2-p01-windows-logs",
+    "lab": "Lab 2",
+    "module": "03",
+    "practice": "01",
+    "title": "Auditoría y análisis de logs de Windows",
+    "edited": "media-work\\videos\\lab2-p01-windows-logs-edited.mp4",
+    "summary": "media-work\\videos\\lab2-p01-windows-logs-summary.mp4"
+  },
+  {
+    "id": "lab2-p02-iis-logs",
+    "lab": "Lab 2",
+    "module": "03",
+    "practice": "02",
+    "title": "Logging y análisis de IIS",
+    "edited": "media-work\\videos\\lab2-p02-iis-logs-edited.mp4",
+    "summary": "media-work\\videos\\lab2-p02-iis-logs-summary.mp4"
+  },
+  {
+    "id": "lab2-p03-snort",
+    "lab": "Lab 2",
+    "module": "03",
+    "practice": "03",
+    "title": "Detección con Snort IDS",
+    "edited": "media-work\\videos\\lab2-p03-snort-edited.mp4",
+    "summary": "media-work\\videos\\lab2-p03-snort-summary.mp4"
+  },
+  {
+    "id": "lab2-p04-splunk",
+    "lab": "Lab 2",
+    "module": "03",
+    "practice": "04",
+    "title": "Centralización de logs con Splunk",
+    "edited": "media-work\\videos\\lab2-p04-splunk-edited.mp4",
+    "summary": "media-work\\videos\\lab2-p04-splunk-summary.mp4"
+  }
+]
